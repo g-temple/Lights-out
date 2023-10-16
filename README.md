@@ -19,3 +19,5 @@ ed moves?
 ed to achieve the light state from part 1?
 3) Determine the answers to analogous
 questions for the  ́  ́n n n cube.
+
+Play here: https://g-temple.github.io/Lights-out/
