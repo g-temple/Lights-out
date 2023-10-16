@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .grid-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .buttons-container {
+    display: grid;
+    grid-template-columns: repeat(3, 50px);
+    /* Adjust button width as needed */
+    grid-gap: 10px;
+    /* Adjust gap between buttons as needed */
+    margin-bottom: 40px;
+    /* Adjust margin between grids as needed */
+  
+  }
+  
+  .color-button {
+    width: 50px;
+    /* Adjust button width as needed */
+    height: 50px;
+    /* Adjust button height as needed */
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+  }
