@@ -10,9 +10,9 @@
   }
   
   .color-button {
-    width: 40px;
+    width: 30px;
     /* Adjust button width as needed */
-    height: 40px;
+    height: 25px;
     /* Adjust button height as needed */
     border: 2px solid black;
     cursor: pointer;
