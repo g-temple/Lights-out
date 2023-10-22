@@ -18,6 +18,6 @@ ed moves?
 2) What is the minimal number of moves need-
 ed to achieve the light state from part 1?
 3) Determine the answers to analogous
-questions for the  ́  ́n n n cube.
+questions for the n x n x n cube.
 
 Play here: https://g-temple.github.io/Lights-out/
