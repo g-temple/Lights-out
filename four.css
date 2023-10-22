@@ -14,7 +14,7 @@ body {
   
   .buttons-container {
     display: grid;
-    grid-template-columns: repeat(3, 50px);
+    grid-template-columns: repeat(4, 50px);
     /* Adjust button width as needed */
     grid-gap: 10px;
     /* Adjust gap between buttons as needed */
@@ -24,9 +24,9 @@ body {
   }
   
   .color-button {
-    width: 50px;
+    width: 40px;
     /* Adjust button width as needed */
-    height: 50px;
+    height: 40px;
     /* Adjust button height as needed */
     border: 2px solid black;
     cursor: pointer;
@@ -39,9 +39,9 @@ body {
     top: 50%;
     left: 25%;
   }
-
   .n-container {
     position: fixed;
     top: 25%;
     left: 25%;
   }
+
