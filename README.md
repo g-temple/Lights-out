@@ -1,7 +1,7 @@
 # Lights-out
 Senior seminar math game
 
-Exceprt problem from math horizons article
+Excerpt problem from math horizons article
 
 Lights Out Solid Cube (P447). Consider the 3x3x3
 cube. In Lights Out Solid Cube, each of the 27 unit
