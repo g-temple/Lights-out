@@ -13,8 +13,7 @@ unit cube that shares a face with the activated cube.
 
 1) If all 27 unit cubes initially have their lights
 on, what is the maximal number of unit
-cubes that can be turned off using unlimit-
-ed moves?
+cubes that can be turned off using unlimited moves?
 2) What is the minimal number of moves need-
 ed to achieve the light state from part 1?
 3) Determine the answers to analogous
