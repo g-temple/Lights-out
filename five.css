@@ -1,18 +1,4 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-  
-  .grid-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .buttons-container {
+   .buttons-container {
     display: grid;
     grid-template-columns: repeat(5, 50px);
     /* Adjust button width as needed */
@@ -31,18 +17,4 @@ body {
     border: 2px solid black;
     cursor: pointer;
     background-color: white;
-  }
-
-  .nav-center {
-    margin: 0 auto;
-    display: flex;
-    position: fixed;
-    top: 50%;
-    left: 25%;
-  }
-
-    .n-container {
-    position: fixed;
-    top: 25%;
-    left: 25%;
   }
