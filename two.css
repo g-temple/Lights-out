@@ -14,7 +14,7 @@ body {
   
   .buttons-container {
     display: grid;
-    grid-template-columns: repeat(3, 50px);
+    grid-template-columns: repeat(2, 50px);
     /* Adjust button width as needed */
     grid-gap: 10px;
     /* Adjust gap between buttons as needed */
