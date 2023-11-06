@@ -19,4 +19,4 @@ achieve the light state from part 1?
 4) Determine the answers to analogous
 questions for the n x n x n cube.
 
-Play here: https://g-temple.github.io/Lights-out/
+Play here: https://g-temple.github.io/Lights-out/index.html
