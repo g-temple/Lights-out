@@ -45,3 +45,9 @@ body {
     top: 25%;
     left: 25%;
   }
+
+  .fourD {
+    position: fixed;
+    top:75%;
+    left: 25%
+  }

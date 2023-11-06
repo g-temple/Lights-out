@@ -1,0 +1,21 @@
+.buttons-container {
+    display: grid;
+    grid-template-columns: repeat(4, 50px);
+    /* Adjust button width as needed */
+    grid-gap: 20px;
+    /* Adjust gap between buttons as needed */
+    margin-left: 40px;
+    margin-right: 40px;
+    /* Adjust margin between grids as needed */
+    margin-bottom: 30px;
+  }
+  
+  .color-button {
+    width: 50px;
+    /* Adjust button width as needed */
+    height: 50px;
+    /* Adjust button height as needed */
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+  }
